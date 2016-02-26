@@ -6,7 +6,7 @@
 */
 
 float stone;
-float stone2;
+int 
 
 
 
