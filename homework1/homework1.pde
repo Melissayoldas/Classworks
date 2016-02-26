@@ -4,6 +4,7 @@
 30 % chance to move up
 30 % chance to move down
 */
+
 float zuzu;
 int m;
 int c;
